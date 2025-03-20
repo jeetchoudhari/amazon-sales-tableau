@@ -1,7 +1,8 @@
 # Amazon Sales
 
-Sales management has become crucial in addressing rising competition and enhancing distribution strategies to minimize costs and maximize profits. Today, it stands as the most vital function in any commercial or business enterprise.
+Sales management has become crucial in addressing rising competition and enhancing distribution strategies to minimize costs and maximize profits. Today, it stands as the most vital function in any commercial or business enterprise.<br><br>
 
+<b>Dashboard:</b> https://public.tableau.com/shared/QM5QCXBFN?:display_count=n&:origin=viz_share_link
 ### Key Performance Indicators (KPIs)
 
 - **Units Sold**: Indicates volume of sales.
